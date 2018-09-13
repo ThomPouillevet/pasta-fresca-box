@@ -1,0 +1,2 @@
+class PastaOrder < ApplicationRecord
+end
