@@ -1,0 +1,2 @@
+class PastaType < ApplicationRecord
+end
